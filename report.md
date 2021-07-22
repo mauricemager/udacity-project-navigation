@@ -25,11 +25,9 @@ The problem is solved (average reward > 13.0) in 461 episodes. A plot of the tra
 
 ![Training Learning curve](data/Learning_curve.png)
 
-below is a video of a trained agent
+below is a example video of a trained agent
 
-![video](data/video_trained_banana_agent.mp4)
-
-
+![Trained banana agent](data/trained_agent_20.gif)
 
 ## Improvements
 
