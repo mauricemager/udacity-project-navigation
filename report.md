@@ -23,7 +23,13 @@ no convolutional networks are needed.
 
 The problem is solved (average reward > 13.0) in 461 episodes. A plot of the training curve is shown below
 
-![Training Learning curve](Images/Learning_curve.png)
+![Training Learning curve](data/Learning_curve.png)
+
+below is a video of a trained agent
+
+![video](data/video_trained_banana_agent.mp4)
+
+
 
 ## Improvements
 
