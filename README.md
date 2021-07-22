@@ -60,7 +60,7 @@ The task is episodic, the environment is considered solved when the trained agen
 
     ```
     cd ..
-    jupyter notebook 
+    jupyter notebook Navigation.ipynb
     ```
 
 6. Download the environment from one of the links below.  You need only select the environment that matches your operating system:

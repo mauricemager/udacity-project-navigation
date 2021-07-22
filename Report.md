@@ -4,7 +4,10 @@
 This projects implements the popular Deep Q-Learning algorithm (_DQN_) based on this [paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
 The algorithm is based on the Deep Q-Network coding exercise of the Udacity Deep Reinforcement Learning course. 
 Since the environment gives detailed information about the states, compared to only visual information, 
-no convolutional networks are needed. 
+no convolutional networks are needed. The neural network architecture is a fully connected network that has one input layer with 37 inputs, 
+2 hidden layers with each 64 inputs and 1 output layer with 4 output values (one for each action).
+
+![Network Architecture](data/neural_net2.jpeg)
 
 ## Hyper-parameters
 
