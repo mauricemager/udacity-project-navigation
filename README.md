@@ -55,10 +55,11 @@ The task is episodic, the environment is considered solved when the trained agen
    python -m ipykernel install --user --name drlnd --display-name "drlnd"
     ```
 
-5. Open jupyter notebook and navigate to the `Navigation.ipynb` notebook. 
+5. Move one folder up, and open the `Navigation.ipynb` notebook. 
    Next, change the Python3 kernel to the new installed drlnd kernel under (_Kernel > Change Kernel > drlnd_)
 
     ```
+    cd ..
     jupyter notebook 
     ```
 
